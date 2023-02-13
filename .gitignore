@@ -9,3 +9,5 @@ output/*
 repos/rnnoise
 # generated text
 test-dataset/metadata.csv
+.idea/
+__pycache__/
