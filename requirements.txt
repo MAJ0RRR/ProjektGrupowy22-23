@@ -92,6 +92,7 @@ pcre2=10.37=he7ceb23_1
 perl=5.34.0=h5eee18b_2
 pillow=9.4.0=pypi_0
 pip=22.3.1=py310h06a4308_0
+playsound==1.3.0
 pooch=1.6.0=pypi_0
 protobuf=3.19.6=pypi_0
 psutil=5.9.4=pypi_0
