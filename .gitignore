@@ -1,9 +1,9 @@
 # audio files
 *.mp3
 *.wav
-# copies of models
+# copies of entities
 older-models
-# trained models
+# trained entities
 output/*
 # do not include built rnnoise
 repos/rnnoise
@@ -11,3 +11,6 @@ repos/rnnoise
 test-dataset/metadata.csv
 .idea/
 __pycache__/
+db_file.db
+voice_models/
+audio/
